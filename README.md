@@ -50,6 +50,5 @@ i. Same rules as above, only difference is timestamp column is w23
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Yashwanth1119/Energy-Data-Analysis/blob/main/Worksheet/eda-5.PNG)
 
-/config/workspace/Worksheet/eda-5.PNG
